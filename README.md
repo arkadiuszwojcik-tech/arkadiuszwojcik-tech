@@ -16,9 +16,11 @@ I work across industrial electrical engineering, automation, quality assurance a
 
 An openly published framework for progressive control of inspection records, quality documentation, red-line/as-built information, commissioning evidence and final handover.
 
-- **PQD-FH 01 — Final Quality Dossier (FQD):** published as Procedure Rev. 1.00, with editable sources and forms.
+- **PQD-FH 01 — Final Quality Dossier (FQD):** published as Procedure Rev. 1.00, with editable sources and forms. Archived on [Zenodo](https://zenodo.org/records/23833468) — DOI: [10.5281/zenodo.23833468](https://doi.org/10.5281/zenodo.23833468).
 - **PQD-FH 02–06:** under development; see the repository for the current publication status.
 - **License:** CC BY-SA 4.0 for the framework documentation published in the repository.
+
+Engineering publications are collected in [UnitedQ Engineering Publications on Zenodo](https://zenodo.org/communities/unitedq/).
 
 ### UnitedQMS — in development
 
